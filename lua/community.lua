@@ -9,5 +9,7 @@ return {
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.cpp" },
+  { import = "astrocommunity.pack.astro" },
+  { import = "astrocommunity.pack.cpp" },
   -- import/override with your plugins folder
 }
